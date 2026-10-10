@@ -38,10 +38,6 @@ pip install transformers torch
 
 Open `[notebook-name].ipynb` (or run `[script-name].py`) and run all cells. The GPT-2 model downloads automatically the first time you run it.
 
-## Sample playthrough
-
-[Paste a short excerpt of real game output here, such as a scene description and a combat round.]
-
 ## Tools
 
 Python, Hugging Face Transformers, PyTorch
