@@ -5,7 +5,6 @@ Something I did in my freetime when I was bored.....
 A text-based fantasy RPG in Python where GPT-2 writes the scene descriptions on the fly. The game itself (combat, inventory, branching story) is regular Python logic, and GPT-2 supplies the narration, so every playthrough reads a little differently.
 
 ## Gameplay
-
 You play a hero sent to break the curse over the village of Ashenveil. The story runs through five scenes, with your choices shaping the path:
 
 1. **Village gate:** each choice gives a different starting item
